@@ -1,0 +1,46 @@
+#container{
+    text-align: center;
+    background-color:azure;
+    padding : 30px 30px 50px 30px;
+    margin-left : 200px;
+    margin-right : 200px;
+    box-shadow:5px 5px 20px gainsboro ;
+    border-radius: 10px;
+    
+}
+
+
+header{
+    text-align:center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xxx-large;
+    padding-bottom: 0px;
+    padding-top : 0px;
+    color:blueviolet;
+}
+
+.formPart{
+    margin-bottom:20px;
+    font-family: 'Franklin Gothic light', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    margin-top:15px;
+    width: 80%;
+    /*width:500px;*/
+}
+footer{
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#logoSimone{
+    width :5%;
+    height: 5%;
+}
+
+#logoQuiche{
+    width:15%;
+    height:15%;
+}
